@@ -28,10 +28,7 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    
-    
-    
-    <h1>Healthy Glow</h1>
+  <h1>Healthy Glow</h1>
     <h2>About Our Products</h2>
     <p>Healthy Glow is a brand that offers a range of products designed to support a healthy and active lifestyle. The brand offers a variety of options to help customers achieve their health and wellness goals, including vitamins and supplements, natural beauty products, organic foods, and fitness accessories.</p>
     <h3>Vitamins and Supplements</h3>
