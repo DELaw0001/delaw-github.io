@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Alpilean - A Popular Diet Supplement</title>
+    Alpilean - Popular Diet Supplement
   </head>
   <body>
     <header>
@@ -30,7 +30,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Healthy Glow</title>
   </head>
   <body>
     <h1>Healthy Glow</h1>
@@ -50,28 +49,3 @@
 If you have any questions or would like to place an order, please don't hesitate to contact us at delaw4469@gmail.com or by visiting https://23f7f2mjxjh1ku57noo5t1vy1o.hop.clickbank.net to place an order.
 
 Copyright © 2023 Health Glow."
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Package distribution
-dist/
-build/
-*.egg-info/
-*.eggs/
-*.whl
-
-# IDE
-*.idea/
-*.vscode/
-
-# virtualenv
-venv/
-.venv/
-env/
-.env/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-The MIT License (MIT)
