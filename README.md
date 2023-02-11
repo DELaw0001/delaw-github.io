@@ -1,8 +1,4 @@
-#delaw-github.io<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    Alpilean - Popular Diet Supplement
+  Alpilean - Popular Diet Supplement
   </head>
   <body>
     <header>
@@ -32,6 +28,9 @@
     <meta charset="UTF-8">
   </head>
   <body>
+    
+    
+    
     <h1>Healthy Glow</h1>
     <h2>About Our Products</h2>
     <p>Healthy Glow is a brand that offers a range of products designed to support a healthy and active lifestyle. The brand offers a variety of options to help customers achieve their health and wellness goals, including vitamins and supplements, natural beauty products, organic foods, and fitness accessories.</p>
@@ -46,6 +45,12 @@
     <p>In conclusion, Healthy Glow is a brand that offers a comprehensive approach to health and wellness. Whether you are looking to improve your overall health, enhance your beauty routine, or stay active, Healthy Glow has a product to help you achieve your goals. With a focus on natural and organic products, Healthy Glow is committed to helping customers lead a healthy and fulfilling life.</p>
   </body>
 </html>
-If you have any questions or would like to place an order, please don't hesitate to contact us at delaw4469@gmail.com or by visiting https://23f7f2mjxjh1ku57noo5t1vy1o.hop.clickbank.net to place an order.
+
+  
+  
+  
+  
+  
+  If you have any questions or would like to place an order, please don't hesitate to contact us at delaw4469@gmail.com or by visiting https://23f7f2mjxjh1ku57noo5t1vy1o.hop.clickbank.net to place an order.
 
 Copyright © 2023 Health Glow."
